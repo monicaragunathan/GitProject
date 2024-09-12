@@ -1,7 +1,6 @@
 package com.sample;
 
-public class Sample {
-
+public class Sample2 {
 	private void tc1() {
         System.out.println("A");
 	}
